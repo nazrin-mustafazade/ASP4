@@ -1,0 +1,32 @@
+﻿@model ASP.Models.PersonAddViewModel;
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Add</title>
+
+</head>
+<body>
+
+    <form asp-controller="Home" asp-action="Add">
+        <label asp-for="Person.Id">  </label> <input asp-for="Person.Id" />
+        <span asp-validation-for="Person.Id">  </span>
+
+        <label asp-for="Person.Name">  </label> <input asp-for="Person.Name" />
+        <span asp-validation-for="Person.Name">  </span>
+
+        <label asp-for="Person.Surname">  </label> <input asp-for="Person.Surname" />
+        <span asp-validation-for="Person.Surname">  </span>
+
+        <label asp-for="Person.Age">  </label> <input asp-for="Person.Age" />
+        <span asp-validation-for="Person.Age">  </span>
+        
+        <button type="submit">Add</button>
+
+    </form>
+    <a asp-action="Index">Back to List</a>
+
+</body>
+</html>
