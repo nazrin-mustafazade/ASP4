@@ -15,12 +15,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\mnezr\source\repos\ASP\ASP
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mnezr/source/repos/ASP/ASP/Views/Home/Add.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGQuY3NodG1s
+[C:/Users/mnezr/source/repos/ASP/ASP/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mnezr/source/repos/ASP/ASP/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/mnezr/source/repos/ASP/ASP/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mnezr/source/repos/ASP/ASP/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mnezr/source/repos/ASP/ASP/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mnezr/source/repos/ASP/ASP/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mnezr/source/repos/ASP/ASP/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mnezr/source/repos/ASP/ASP/Views/_ViewImports.cshtml]
